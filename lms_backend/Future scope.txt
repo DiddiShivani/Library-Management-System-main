@@ -1,0 +1,14 @@
+Future Scope
+
+→ Reservation model
+→ Issue book page for admin
+→ color combo in admin search pagas
+→ Refresh issue for pages where date passed through URL
+→ Footer at bottom
+→ Slideshow in homepage
+→ User search page responsiveness
+→ Terms of use & privacy policy
+→ User rating books
+→ User commenting barks.
+→ contact us f/b form
+→ Email confirmation (OTP /click here).
